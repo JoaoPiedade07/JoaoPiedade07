@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoPiedade07
-- 👀 I’m interested in cooking, reading and coding.
-- 🌱 I’m currently learning python and swift
+- 👀 I’m interested in japanese culture and coding.
+- 🌱 I’m currently developing a mobile App...
 - 📫 How to reach me joaoluislopespiedade07@gmail.com
 
 <!---
