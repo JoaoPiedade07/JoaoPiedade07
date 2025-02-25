@@ -1,9 +1,7 @@
-<h2 align="left">Hi 👋! My name is João Piedade, in the moment I'm developing a mobile app.</h2>
+<h2 align="center">Hi👋! My name is João Piedade...☕</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoPiedade07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <p align="left">🔭 I'm currently working on an application for japanese cuisine.<br>🌱 I’m currently learning React.js and Python...<br>📫 How to reach me: joaoluislopespiedade07@gmail.com</p>
 
 ###
